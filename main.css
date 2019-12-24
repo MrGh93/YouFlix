@@ -1,0 +1,15 @@
+#youflix-minusButton, #youflix-plusButton {
+  cursor: pointer;
+  width: 30px;
+  margin-top: 3px;
+  height: 100%;
+  position: absolute;
+}
+
+#youflix-plusButton {
+  left: 255px;
+}
+
+#youflix-minusButton {
+  left: 225px;
+}
